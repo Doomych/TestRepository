@@ -1,2 +1,2 @@
 # TestRepository
-Test
+It is a simple REST service
